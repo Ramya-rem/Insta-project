@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    background-color: rgb(250, 245, 245);
+}
+.head{
+    display: flex;
+    height: 50px;
+    margin: 5px;
+    margin-top: 5px;
+}
+.instafont{
+    font-family: sans-serif;
+    color: black;
+    width: 100px;
+
+}
+.like1{
+    width: 28px;
+    height: 28px;
+    padding-left: 190px;
+    margin-top: 15px;
+
+}
+.comment1{
+    width: 28px;
+    height: 28px;
+    justify-content: flex-end;
+    margin-right: 5px;
+    padding-left: 15px;
+    margin-top: 15px;
+
+}
+.imgone{
+    
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 5px;
+}
+.secondpart{
+    display: flex;
+    height: 100px;
+}
+figcaption{
+    text-align: center;
+}
+.homepostdiv{
+    display: flex;
+}
+.homepostdp{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin: 5px;
+
+}
+.frndonepost{
+    width: 80%;
+}
+.threedots{
+    margin: 5px;
+}
+
+.homepost{
+    
+    height: 100px;
+    margin: 10px;
+    padding: 2px;
+    
+}
+.container{
+    width: 100vw;
+    height: 100vw;
+    display: grid;
+   
+}
+.belowhomepost{
+    display: flex;
+    margin-left: 20px;
+}
+.like2{
+    width: 10%;
+
+}
+.comment2{
+    width: 10%;
+
+}
+.sendarrow1{
+    width: 10%;
+
+}
+.saveicon1{
+    width: 70%;
+    text-align: right;
+    margin-right: 20px;
+}
+.box{
+    width: 100%;
+}
+#footerprofile{
+    width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        margin-right: 5px;
+
+}
+#homefooter{
+    width: 100vw;
+    height: 50px;
+
+    background-color: white;
+    position: fixed;
+    bottom: 0px;
+    display: grid;
+    height: 40px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-bottom: 0px;
+}

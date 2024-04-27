@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    display: grid;
+    width: 100vw;
+    height: 100vw;
+    justify-content: center;
+    align-content: center;
+}
+#login{
+    text-align: center;
+    margin-top: 70px;
+}
+#forgetpswd{
+    
+}
+#createnew{
+}
+#lang{
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 20px;
+    padding: 30px;
+}
+img{
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    margin-left: 40%;
+
+    
+}
+input{
+    width: 95%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+button{
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 10px;
+    width: 95%;
+    padding: 5px;
+    background-color: rgb(37, 37, 239);
+    border: 1px solid rgb(37, 37, 239);
+}
+#forgetpswd{
+    color: black;
+    text-decoration: none;
+    padding-top: 10px;
+}
+a{
+    margin-top:10px ;
+}
+#createnew{
+    margin-bottom: 20px;
+    text-align: center;
+}
+#metalogo{
+    
+    text-align: center;
+    margin-bottom: ;
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+
+}
